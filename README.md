@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native , NextJS**
 
-- 👨‍💻 All of my projects are available at [here]((https://next-potfolio-zeta.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://next-potfolio-zeta.vercel.app/]((https://next-potfolio-zeta.vercel.app/))
 
 - 💬 Ask me about **react, javascript ,typescript,node js,tailwind css ,git**
 
