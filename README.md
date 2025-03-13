@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rohit Hegade</h1>
 <h3 align="center">Full Stack Developer with one year of experience, proficient in both frontend and backend development, with a strong emphasis on user-focused design and clean coding practices.</h3>
 
-- 🌱 I’m currently learning **React Native , NextJS**
+- 🌱 I’m currently learning ** Expo , React Native , NextJS**
 
-- 👨‍💻 All of my projects are available at [https://next-potfolio-zeta.vercel.app/]((https://next-potfolio-zeta.vercel.app/))
+- 👨‍💻 All of my projects are available at [Link]((https://next-potfolio-zeta.vercel.app/))
 
 - 💬 Ask me about **react, javascript ,typescript,node js,tailwind css ,git**
 
 - 📫 How to reach me **rohithegade8@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1bJtvThcgGm3oVIO1S4nRxE-jII7NES_jzZFwHLHuRQE/edit](https://docs.google.com/document/d/1bJtvThcgGm3oVIO1S4nRxE-jII7NES_jzZFwHLHuRQE/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
