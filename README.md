@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, javascript ,typescript,node js,tailwind css ,git**
 
-- 📫 How to reach me **rohithegade8@gmail.com**
+- 📫 You can reach out to me **rohithegade8@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
