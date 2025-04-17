@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Hegade</h1>
 <h3 align="center">Full Stack Developer with one year of experience, proficient in both frontend and backend development, with a strong emphasis on user-focused design and clean coding practices.</h3>
 
-- 🌱 I’m currently learning ** Expo , React Native , NextJS**
+- 🌱 I’m currently learning  Expo , React Native , NextJS
 
 - 👨‍💻 All of my projects are available at [Link]((https://next-potfolio-zeta.vercel.app/))
 
