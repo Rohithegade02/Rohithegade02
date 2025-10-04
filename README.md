@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning  Expo , React Native , NextJS ,Kotlin
 
-- 👨‍💻 All of my projects are available at [Here]((https://next-potfolio-zeta.vercel.app/))
-
 - 💬 Ask me about **react, javascript ,typescript,node js,tailwind css ,git**
 
 - 📫 You can reach out to me **rohithegade8@gmail.com**
